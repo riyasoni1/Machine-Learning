@@ -1,7 +1,8 @@
 # Machine-Learning
 
 This repository contains the project which I have completed
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/riyasoni1/Machine-Learning/blob/main/BigMac%20index%20SML.ipynb)
+
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png>](https://github.com/riyasoni1/Machine-Learning/blob/main/BigMac%20index%20SML.ipynb)
 
 ### # Project-1 : BigMac Index using Supervised ML
 _Please click on the images on right side to view my solution._
